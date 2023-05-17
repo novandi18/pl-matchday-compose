@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Premier League Matchday</string>
+    <string name="search_club">Search club</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_profile">Profile</string>
+    <string name="author_name">Novandi Ramadhan</string>
+    <string name="author_email">novandiramadhan80@gmail.com</string>
+    <string name="profile">Profile</string>
+    <string name="favorite">Favorite Club</string>
+    <string name="home_tab">home_page</string>
+    <string name="favorite_tab">favorite_page</string>
+    <string name="about_tab">about_page</string>
+</resources>

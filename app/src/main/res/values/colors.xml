@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple">#37003C</color>
+    <color name="black">#1B1B1B</color>
+    <color name="grey">#5E5E5E</color>
+    <color name="light">#F6F6F6</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="bournemouth">#E62333</color>
+    <color name="arsenal">#FE0002</color>
+    <color name="astonvilla">#480025</color>
+    <color name="brenford">#C61D23</color>
+    <color name="brighton">#0054A6</color>
+    <color name="chelsea">#0A4595</color>
+    <color name="crystalpalace">#EB302E</color>
+    <color name="everton">#00369C</color>
+    <color name="fulham">#F5F5F5</color>
+    <color name="leeds">#F5F5F5</color>
+    <color name="leicester">#273E8A</color>
+    <color name="liverpool">#E31B23</color>
+    <color name="mancity">#6CAEE0</color>
+    <color name="manunited">#D81920</color>
+    <color name="newcastle">#FBFBFB</color>
+    <color name="nottingham">#EB0024</color>
+    <color name="southampton">#D71920</color>
+    <color name="tottenham">#F5F5F5</color>
+    <color name="westham">#7D2C3B</color>
+    <color name="wolves">#F9A01B</color>
+</resources>
